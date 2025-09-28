@@ -1,0 +1,10 @@
+{
+  "black metal": {
+    "genre": "death/black metal",
+    "alias": false
+  },
+  "death metal": {
+    "genre": "death/black metal",
+    "alias": false
+  }
+}

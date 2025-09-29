@@ -1,6 +1,7 @@
 {
   "alternative metal": {
-    "genre": "alternative"
+    "genre": "alternative",
+    "es-ES": "metal alternativo"
   },
   "alternative rock": {
     "genre": "alternative",
@@ -8,6 +9,9 @@
   },
 
   "ambient": {
+    "genre": "ambient/drone"
+  },
+  "dark ambient": {
     "genre": "ambient/drone"
   },
   "drone": {
@@ -18,6 +22,9 @@
     "genre": "ballad"
   },
   "pop ballad": {
+    "genre": "ballad"
+  },
+  "power ballad": {
     "genre": "ballad"
   },
 
@@ -71,6 +78,19 @@
   "truck-driving country": {
     "genre": "country"
   }
+
+  "dance pop": {
+    "genre": "dance"
+  },
+  "edm": {
+    "genre": "dance"
+  },
+  "eurodance": {
+    "genre": "dance"
+  },
+  "italodance": {
+    "genre": "dance"
+  },
   
   "black metal": {
     "genre": "death/black metal"
@@ -96,7 +116,16 @@
   "war metal": {
     "genre": "death/black metal"
   },
-  
+
+  "disco funk": {
+    "genre": "disco"
+  },
+  "euro disco": {
+    "genre": "disco"
+  },
+  "nu-disco": {
+    "genre": "disco"
+  },
   
   "funeral doom metal": {
     "genre": "doom metal"

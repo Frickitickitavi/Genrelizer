@@ -248,6 +248,9 @@
   "extratone": {
     "genre": "hardcore edm"
   },
+  "gabber": {
+    "genre": "hardcore edm"
+  },
   "happy hardcore": {
     "genre": "hardcore edm"
   },
@@ -262,6 +265,10 @@
   },
   "splittercore": {
     "genre": "hardcore edm"
+  },
+
+  "nwobhm": {
+    "genre": "heavy metal"
   },
   
   "bebop": {

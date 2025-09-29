@@ -161,6 +161,109 @@
     "genre": "electronic"
   },
 
+  "midwest emo": {
+    "genre": "emo"
+  },
+  "screamo": {
+    "genre": "emo"
+  },
+
+  "acoustic folk": {
+    "genre": "folk"
+  },
+  "folk pop": {
+    "genre": "folk"
+  },
+  "folk rock": {
+    "genre": "folk"
+  },
+  "traditional folk": {
+    "genre": "folk"
+  },
+
+  "jazz fusion": {
+    "genre": "fusion"
+  },
+  "progressive jazz fusion": {
+    "genre": "fusion"
+  },
+
+  "glam metal": {
+    "genre": "glam"
+  },
+  "glam pop": {
+    "genre": "glam"
+  },
+  "glam rock": {
+    "genre": "glam"
+  },
+  "hair metal": {
+    "genre": "glam"
+  },
+  "sleaze metal": {
+    "genre": "glam"
+  },
+
+  "circuit bending": {
+    "genre": "glitch"
+  },
+  "glitchcore": {
+    "genre": "glitch"
+  },
+
+  "blackened deathgrind": {
+    "genre": "grindcore"
+  },
+  "crustgrind": {
+    "genre": "grindcore"
+  },
+  "cybergrind": {
+    "genre": "grindcore"
+  },
+  "deathgrind": {
+    "genre": "grindcore"
+  },
+  "electrogrind": {
+    "genre": "grindcore"
+  },
+  "goregrind": {
+    "genre": "grindcore"
+  },
+  "noisegrind": {
+    "genre": "grindcore"
+  },
+  "queercore": {
+    "genre": "grindcore"
+  },
+  "pornogrind": {
+    "genre": "grindcore"
+  },
+  "power electronics": {
+    "genre": "grindcore"
+  },
+  "powerviolence": {
+    "genre": "grindcore"
+  },
+
+  "extratone": {
+    "genre": "hardcore edm"
+  },
+  "happy hardcore": {
+    "genre": "hardcore edm"
+  },
+  "hardcore dance": {
+    "genre": "hardcore edm"
+  },
+  "hardstyle": {
+    "genre": "hardcore edm"
+  },
+  "speedcore": {
+    "genre": "hardcore edm"
+  },
+  "splittercore": {
+    "genre": "hardcore edm"
+  },
+  
   "bebop": {
     "genre": "jazz"
   },

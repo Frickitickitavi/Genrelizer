@@ -130,4 +130,92 @@
   "funeral doom metal": {
     "genre": "doom metal"
   },
+
+  "brostep": {
+    "genre": "dubstep"
+  },
+  "clownstep": {
+    "genre": "dubstep"
+  },
+  "funkstep": {
+    "genre": "dubstep"
+  },
+  "glitchstep": {
+    "genre": "dubstep"
+  },
+  "hardstep": {
+    "genre": "dubstep"
+  },
+  "metalstep": {
+    "genre": "dubstep"
+  },
+
+  "electronica": {
+    "genre": "electronic"
+  },
+
+  "electronic metal": {
+    "genre": "electronic rock"
+  },
+  "synthrock": {
+    "genre": "electronic"
+  },
+
+  "bebop": {
+    "genre": "jazz"
+  },
+  "big band jazz": {
+    "genre": "jazz"
+  },
+  "bossa nova": {
+    "genre": "jazz"
+  },
+  "cool jazz": {
+    "genre": "jazz"
+  },
+  "electro-jazz": {
+    "genre": "jazz"
+  },
+  "freeform jazz": {
+    "genre": "jazz"
+  },
+  "hard bop": {
+    "genre": "jazz"
+  },
+  "jazz metal": {
+    "genre": "jazz"
+  },
+  "jazz pop": {
+    "genre": "jazz"
+  },
+  "jazz rock": {
+    "genre": "jazz"
+  },
+  "lounge": {
+    "genre": "jazz"
+  },
+  "modal jazz": {
+    "genre": "jazz"
+  },
+  "modern jazz": {
+    "genre": "jazz"
+  },
+  "nu-jazz": {
+    "genre": "jazz"
+  },
+  "post-bop": {
+    "genre": "jazz"
+  },
+  "progressive big band": {
+    "genre": "jazz"
+  },
+  "ragtime": {
+    "genre": "jazz"
+  },
+  "swing jazz": {
+    "genre": "jazz"
+  },
+  "traditional jazz": {
+    "genre": "jazz"
+  },
 }
